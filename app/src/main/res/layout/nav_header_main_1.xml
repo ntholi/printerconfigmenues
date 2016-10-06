@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:text="Title Here"
         android:textStyle="bold"
-        android:textColor="#0097A7"
+        android:textColor="#607D8B"
         android:textSize="30sp"
         android:shadowColor="#9E9E9E"
         android:shadowDx="3"
